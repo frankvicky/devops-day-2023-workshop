@@ -1,0 +1,19 @@
+{
+  "name": "devops-day-2023-workshop",
+  "version": "0.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankvicky/devops-day-2023-workshop.git"
+  },
+  "author": "franky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frankvicky/devops-day-2023-workshop/issues"
+  },
+  "homepage": "https://github.com/frankvicky/devops-day-2023-workshop#readme"
+}
